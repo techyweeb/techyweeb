@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @techyweeb(Saswat Mishra).
-- 👀 I’m interested in WEb Development, Software Developement.
+- 👀 I’m interested in Web Development, Software Development.
 - 🌱 I’m currently learning Python, DSA(c/c++).
 - 💞️ I’m looking to collaborate on any open source project using {Python, C, C++, HTML, CSS, JS, React, Node, MongoDB, EJS, OAuth}
 - 📫 How to reach me mail me on alphanumeric1900@gmail.com
